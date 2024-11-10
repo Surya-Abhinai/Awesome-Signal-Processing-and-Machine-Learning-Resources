@@ -24,3 +24,22 @@
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
 - [Understanding Deep Learning Codes](https://udlbook.github.io/udlbook/)
+
+## Signal Processing
+- [Digital Signal Processing](https://archive.nptel.ac.in/courses/108/101/108101174/)
+- [Digital Image Processing](https://archive.nptel.ac.in/courses/117/105/117105079/)
+- [Digital Speech Processing](https://archive.nptel.ac.in/courses/117/105/117105145/)
+- [Adaptive Signal Processing](https://nptel.ac.in/courses/117105075)
+- [Multirate Signal Processing](https://archive.nptel.ac.in/courses/117/101/117101123/)
+- [Random Signal Processing](https://archive.nptel.ac.in/courses/108/103/108103158/)
+- [Biomedical Signal Processing](https://archive.nptel.ac.in/courses/108/105/108105101/)
+- [Image Signal Processing](https://archive.nptel.ac.in/courses/108/106/108106168/)
+- [Biomedical Image Procesing](https://archive.nptel.ac.in/courses/102/106/102106094/)
+- [VLSI Signal Processing](https://archive.nptel.ac.in/courses/108/105/108105157/)
+
+## Advanced Deep Learning 
+- [Stanford CS236 Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
+- [Stanford CS224N Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+- [Stanford CS224W Machine Learning With Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+- [Stanford EE364 Convex Optimization](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
+- [Stanford CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
