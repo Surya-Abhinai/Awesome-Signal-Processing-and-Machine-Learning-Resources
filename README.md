@@ -50,3 +50,4 @@
 - [Optimization Methods](https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/)
 - [Time Series](https://github.com/youssefHosni/Practical-Time-Series-In-Python)
 - [Computer Vision Courses](https://yousefhosni.medium.com/learn-computer-vision-from-top-universities-bb6019be74d2)
+- [Notes](https://aman.ai/)
