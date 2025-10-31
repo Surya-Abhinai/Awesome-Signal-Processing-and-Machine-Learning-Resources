@@ -1,5 +1,13 @@
 # Signal-Processing-and-Machine-Learning-Resources
 
+## 🔗 Quick Links
+
+| [Python](#python) | [Mathematics for Machine Learning](#mathematics-for-machine-learning) | [Machine Learning](#machine-learning) |
+|--------------------|---------------------------------------------|--------------------|
+| [Deep Learning](#deep-learning) | [Signal Processing](#signal-processing) | [Advanced Deep Learning](#advanced-deep-learning) |
+|[Computer Vision](#computer-vision)| [NLP](#natural-language-processing) | [MISC](#misc) | 
+
+
 ## Python 
 - [Angela Yu Course on Udemy](https://www.udemy.com/course/100-days-of-code/)
 - [Pandas Course by Keith Galli](https://youtu.be/2uvysYbKdjM?si=HFyix_s0RXfy9h4b)
@@ -13,6 +21,8 @@
 - [Statistics Fundamentals by StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [Linear Algebra by 3BlueBrown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Essence of Calculus by 3BlueBrown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Mathematical Theory for Deep Learning](https://arxiv.org/abs/2407.18384)
+- [List of Books](https://github.com/valeman/Awesome_Math_Books)
 
 ## Machine Learning 
 - [Machine Learning Specialization by Andrew Ng on Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
@@ -44,10 +54,27 @@
 - [Stanford EE364 Convex Optimization](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
 - [Stanford CS25 Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 - [Stanford CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+- [Geometric Deep Learning](https://geometricdeeplearning.com)
+
+## Computer Vision
+- [Computer Vision Courses](https://yousefhosni.medium.com/learn-computer-vision-from-top-universities-bb6019be74d2)
+- [Comprehensive Resources](https://github.com/jbhuang0604/awesome-computer-vision)
+- [Diffusion in Depth](https://www.arxiv.org/pdf/2510.21890)
+
+## Natural Language Processing
+- [LLM ToolKit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit/blob/main/README.md)
+- [Comprehensive Resources](https://github.com/keon/awesome-nlp)
+- [RAG](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)
+- [Information Retrieval Newsletter](https://recsys.substack.com/)
+- [Mechanistic Intrepretability](https://github.com/apartresearch/interpretability-starter)
 
 ## MISC
+- [GPU Programming](https://github.com/gpu-mode/resource-stream)
 - [Digital Signal Processing Notebooks](https://github.com/TUIlmenauAMS/ADSP_Tutorials)
+- [Hardware for Deep Learning](https://www.linkedin.com/posts/kailash-prasad_machine-learning-hardware-and-systems-cornell-activity-7294928173270515731-CGIn)
 - [Optimization Methods](https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/)
 - [Time Series](https://github.com/youssefHosni/Practical-Time-Series-In-Python)
-- [Computer Vision Courses](https://yousefhosni.medium.com/learn-computer-vision-from-top-universities-bb6019be74d2)
+- [Intrepretability of Neural Networks](https://distill.pub/2020/circuits)
 - [Notes](https://aman.ai/)
+
+
