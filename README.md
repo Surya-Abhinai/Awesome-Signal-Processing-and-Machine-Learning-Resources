@@ -1,11 +1,12 @@
 # Signal-Processing-and-Machine-Learning-Resources
 
 ## 🔗 Quick Links
-
-| [Python](#python) | [Mathematics for Machine Learning](#mathematics-for-machine-learning) | [Machine Learning](#machine-learning) |
-|--------------------|---------------------------------------------|--------------------|
-| [Deep Learning](#deep-learning) | [Signal Processing](#signal-processing) | [Advanced Deep Learning](#advanced-deep-learning) |
-|[Computer Vision](#computer-vision)| [NLP](#natural-language-processing) | [MISC](#misc) | 
+|||||
+|--------------------|---------------------------------------------|--------------------|----------|
+| [Python](#python) | [Mathematics for Machine Learning](#mathematics-for-machine-learning) | [Machine Learning](#machine-learning) | [Deep Learning](#deep-learning) | 
+[Signal Processing](#signal-processing) | [Advanced Deep Learning](#advanced-deep-learning) |[Computer Vision](#computer-vision)|[NLP](#natural-language-processing) 
+|[Audio](#audio) |[High Performance Computing](#ml-infrastructure--high-performance-computing-hpc)|[AI Alignment](#ai-alignment)|[MISC](#misc)|
+|[Social Media](#social-media-handles-to-follow) |
 
 
 ## Python 
@@ -70,19 +71,34 @@
 - [Comprehensive Resources](https://github.com/keon/awesome-nlp)
 - [RAG](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)
 - [Information Retrieval Newsletter](https://recsys.substack.com/)
-- [Mechanistic Intrepretability](https://github.com/apartresearch/interpretability-starter)
+- [LLM Reading Group by PaperClub](https://www.latent.space/p/paperclub)
+  ### Intrepretability
+  - [Mechanistic Intrepretability](https://github.com/apartresearch/interpretability-starter)
+  - [Intrepretability of Neural Networks](https://distill.pub/2020/circuits)
 
-## MISC
+## Audio
+- [Conversation AI Reading Group](https://poonehmousavi.github.io/rg.html)
+
+## ML Infrastructure / High-Performance Computing (HPC)
 - [GPU Programming](https://github.com/gpu-mode/resource-stream)
 - [Hardware for Deep Learning](https://www.linkedin.com/posts/kailash-prasad_machine-learning-hardware-and-systems-cornell-activity-7294928173270515731-CGIn)
-- [Embodied AI](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
 - [CUDA](https://www.linkedin.com/posts/paoloperrone_youre-learning-cuda-all-wrong-the-nvidia-activity-7387693771620220928-tRrS)
+- [ML Efficiency (Quantization)](https://sites.google.com/cohere.com/coherelabs-community/community-programs/ml-efficiency)
+
+## AI Alignment
+- [Cohort by Eleuther AI](https://docs.google.com/document/d/1IziNp1XHLrv5yKEUqGkGlMkwrxJ2SsfCLawIdFMMfNw/edit?tab=t.0#heading=h.dlm795ug69gc)
+- [Cohort by Cohere Labs](https://github.com/Cohere-Labs-Community/AI-Alignment-Cohort)
+- [Overview by Neel Nanda](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher)
+
+
+## MISC
+- [Embodied AI](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
 - [Digital Signal Processing Notebooks](https://github.com/TUIlmenauAMS/ADSP_Tutorials)
-- [ML Efficiency](https://sites.google.com/cohere.com/coherelabs-community/community-programs/ml-efficiency)
 - [Optimization Methods](https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/)
 - [Time Series](https://github.com/youssefHosni/Practical-Time-Series-In-Python)
-- [Intrepretability of Neural Networks](https://distill.pub/2020/circuits)
-- [Ai Alignment Cohort](https://github.com/Cohere-Labs-Community/AI-Alignment-Cohort)
 - [Notes](https://aman.ai/)
+
+## Social Media Handles to follow
+- [Disord Channels List](https://docs.google.com/spreadsheets/d/1DlBT1pF8-zMECntRWXFsL46gZyvNp1BJlJ6LXGze4dA/edit?gid=0#gid=0)
 
 
