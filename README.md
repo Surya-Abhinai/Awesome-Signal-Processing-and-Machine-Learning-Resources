@@ -22,6 +22,8 @@
 - [Linear Algebra by 3BlueBrown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Essence of Calculus by 3BlueBrown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Mathematical Theory for Deep Learning](https://arxiv.org/abs/2407.18384)
+- [Bird's Eye View on Different Fields of Maths](https://web.evanchen.cc/napkin.html)
+- [Mathematical Foundations for Geometric Deep Learning](https://www.arxiv.org/pdf/2508.02723)
 - [List of Books](https://github.com/valeman/Awesome_Math_Books)
 
 ## Machine Learning 
@@ -34,6 +36,7 @@
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
 - [Understanding Deep Learning Codes](https://udlbook.github.io/udlbook/)
+- [Short Courses](https://deeplearning.ai)
 
 ## Signal Processing
 - [Digital Signal Processing](https://archive.nptel.ac.in/courses/108/101/108101174/)
@@ -54,6 +57,7 @@
 - [Stanford EE364 Convex Optimization](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
 - [Stanford CS25 Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 - [Stanford CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+- [Hugging Face - Reinforcement Learning](https://huggingface.co/learn/deep-rl-course)
 - [Geometric Deep Learning](https://geometricdeeplearning.com)
 
 ## Computer Vision
@@ -70,11 +74,15 @@
 
 ## MISC
 - [GPU Programming](https://github.com/gpu-mode/resource-stream)
-- [Digital Signal Processing Notebooks](https://github.com/TUIlmenauAMS/ADSP_Tutorials)
 - [Hardware for Deep Learning](https://www.linkedin.com/posts/kailash-prasad_machine-learning-hardware-and-systems-cornell-activity-7294928173270515731-CGIn)
+- [Embodied AI](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
+- [CUDA](https://www.linkedin.com/posts/paoloperrone_youre-learning-cuda-all-wrong-the-nvidia-activity-7387693771620220928-tRrS)
+- [Digital Signal Processing Notebooks](https://github.com/TUIlmenauAMS/ADSP_Tutorials)
+- [ML Efficiency](https://sites.google.com/cohere.com/coherelabs-community/community-programs/ml-efficiency)
 - [Optimization Methods](https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/)
 - [Time Series](https://github.com/youssefHosni/Practical-Time-Series-In-Python)
 - [Intrepretability of Neural Networks](https://distill.pub/2020/circuits)
+- [Ai Alignment Cohort](https://github.com/Cohere-Labs-Community/AI-Alignment-Cohort)
 - [Notes](https://aman.ai/)
 
 
