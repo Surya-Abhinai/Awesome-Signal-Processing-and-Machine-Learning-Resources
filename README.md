@@ -78,6 +78,7 @@
 
 ## Audio
 - [Conversation AI Reading Group](https://poonehmousavi.github.io/rg.html)
+- [Acoustics](https://github.com/Nitnelav/awesome-acoustic)
 
 ## ML Infrastructure / High-Performance Computing (HPC)
 - [GPU Programming](https://github.com/gpu-mode/resource-stream)
@@ -92,6 +93,8 @@
 
 
 ## MISC
+- [Applied ML Papers](https://applyingml.com/papers/)
+- [Hugging Face Daily papers](https://huggingface.co/papers)
 - [Embodied AI](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
 - [Digital Signal Processing Notebooks](https://github.com/TUIlmenauAMS/ADSP_Tutorials)
 - [Optimization Methods](https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/)
