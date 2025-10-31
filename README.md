@@ -6,7 +6,7 @@
 | [Python](#python) | [Mathematics for Machine Learning](#mathematics-for-machine-learning) | [Machine Learning](#machine-learning) | [Deep Learning](#deep-learning) | 
 [Signal Processing](#signal-processing) | [Advanced Deep Learning](#advanced-deep-learning) |[Computer Vision](#computer-vision)|[NLP](#natural-language-processing) 
 |[Audio](#audio) |[High Performance Computing](#ml-infrastructure--high-performance-computing-hpc)|[AI Alignment](#ai-alignment)|[MISC](#misc)|
-|[Social Media](#social-media-handles-to-follow) |
+|[Social Media](#social-media-handles-to-follow) | [Hackathons](#hackathons) |
 
 
 ## Python 
@@ -100,5 +100,20 @@
 
 ## Social Media Handles to follow
 - [Disord Channels List](https://docs.google.com/spreadsheets/d/1DlBT1pF8-zMECntRWXFsL46gZyvNp1BJlJ6LXGze4dA/edit?gid=0#gid=0)
-
+  
+## Hackathons
+- [Kaggle](https://www.kaggle.com/)
+- [Codabench](https://www.codabench.org/competitions/public)
+- [ML Contests](https://mlcontests.com)
+- [LabLab AI](https://lablab.ai/event)
+- [Dev Post](https://devpost.com/hackathons?challenge_type[]=online&themes[]=Machine%20Learning%2FAI)
+- [Grand Challenges](https://grand-challenge.org/challenges)
+- [AI Crowd](https://aicrowd.com/challenges)
+- [Eval AI](https://eval.ai/web/challenges/list)
+- [Unstop](https://unstop.com)
+- [Hack2Skill](https://hack2skill.com)
+- [Hacker Earth](https://www.hackerearth.com/challenges)
+- [DevFolio](https://devfolio.co/hackathons/open)
+- [Zindi](https://zindi.africa/competitions)
+- Lot of Conferences like NeurIPS , Miccai organise their own competitions you can go to their pages and check them .
 
