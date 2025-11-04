@@ -118,5 +118,6 @@
 - [Hacker Earth](https://www.hackerearth.com/challenges)
 - [DevFolio](https://devfolio.co/hackathons/open)
 - [Zindi](https://zindi.africa/competitions)
+- [Apart Research](https://apartresearch.com/sprints)
 - Lot of Conferences like NeurIPS , Miccai organise their own competitions you can go to their pages and check them .
 
