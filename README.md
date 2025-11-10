@@ -100,6 +100,7 @@
 - [Optimization Methods](https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/)
 - [Time Series](https://github.com/youssefHosni/Practical-Time-Series-In-Python)
 - [Notes](https://aman.ai/)
+- [Foundational Research Papers Implementation in Pytorch](https://labml.ai/)
 
 ## Social Media Handles to follow
 - [Disord Channels List](https://docs.google.com/spreadsheets/d/1DlBT1pF8-zMECntRWXFsL46gZyvNp1BJlJ6LXGze4dA/edit?gid=0#gid=0)
