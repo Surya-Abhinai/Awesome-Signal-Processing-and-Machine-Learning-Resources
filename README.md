@@ -60,6 +60,7 @@
 - [Stanford CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - [Hugging Face - Reinforcement Learning](https://huggingface.co/learn/deep-rl-course)
 - [Geometric Deep Learning](https://geometricdeeplearning.com)
+- [Hyper Parameter Optimization](https://arxiv.org/pdf/2410.22854)
 
 ## Computer Vision
 - [Computer Vision Courses](https://yousefhosni.medium.com/learn-computer-vision-from-top-universities-bb6019be74d2)
