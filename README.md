@@ -86,6 +86,7 @@
 - [Hardware for Deep Learning](https://www.linkedin.com/posts/kailash-prasad_machine-learning-hardware-and-systems-cornell-activity-7294928173270515731-CGIn)
 - [CUDA](https://www.linkedin.com/posts/paoloperrone_youre-learning-cuda-all-wrong-the-nvidia-activity-7387693771620220928-tRrS)
 - [ML Efficiency (Quantization)](https://sites.google.com/cohere.com/coherelabs-community/community-programs/ml-efficiency)
+- [Distributed Training](https://debnsuma.github.io/my-blog/posts/distributed-training-from-scratch/)
 
 ## AI Alignment
 - [Cohort by Eleuther AI](https://docs.google.com/document/d/1IziNp1XHLrv5yKEUqGkGlMkwrxJ2SsfCLawIdFMMfNw/edit?tab=t.0#heading=h.dlm795ug69gc)
