@@ -66,6 +66,7 @@
 - [Computer Vision Courses](https://yousefhosni.medium.com/learn-computer-vision-from-top-universities-bb6019be74d2)
 - [Comprehensive Resources](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Diffusion in Depth](https://www.arxiv.org/pdf/2510.21890)
+- [Discrete Diffusion Reading group](https://d-llms.io/)
 
 ## Natural Language Processing
 - [LLM ToolKit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit/blob/main/README.md)
