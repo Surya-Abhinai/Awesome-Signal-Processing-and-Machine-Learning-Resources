@@ -77,6 +77,7 @@
 - [LLM Reading Group by PaperClub](https://www.latent.space/p/paperclub)
 - [LLM Post Training](https://tokens-for-thoughts.notion.site/post-training-101#262b8b68a46d800c9bd3e845a304c3e4)
 - [Tokenizers](https://huggingface.co/blog/tokenizers)
+- [Agents and Reasoning Reading Group](https://discord.com/channels/729741769192767510/1309581020458258462/threads/1311088899929669632)
   ### Intrepretability
   - [Mechanistic Intrepretability](https://github.com/apartresearch/interpretability-starter)
   - [Intrepretability of Neural Networks](https://distill.pub/2020/circuits)
@@ -91,6 +92,7 @@
 - [CUDA](https://www.linkedin.com/posts/paoloperrone_youre-learning-cuda-all-wrong-the-nvidia-activity-7387693771620220928-tRrS)
 - [ML Efficiency (Quantization)](https://sites.google.com/cohere.com/coherelabs-community/community-programs/ml-efficiency)
 - [Distributed Training](https://debnsuma.github.io/my-blog/posts/distributed-training-from-scratch/)
+- [ML Performance Reading group](https://discord.com/channels/729741769192767510/1309581020458258462/threads/1309682853944229950)
 
 ## AI Alignment
 - [Cohort by Eleuther AI](https://docs.google.com/document/d/1IziNp1XHLrv5yKEUqGkGlMkwrxJ2SsfCLawIdFMMfNw/edit?tab=t.0#heading=h.dlm795ug69gc)
