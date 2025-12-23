@@ -25,6 +25,7 @@
 - [Mathematical Theory for Deep Learning](https://arxiv.org/abs/2407.18384)
 - [Bird's Eye View on Different Fields of Maths](https://web.evanchen.cc/napkin.html)
 - [Mathematical Foundations for Geometric Deep Learning](https://www.arxiv.org/pdf/2508.02723)
+- [Numerical Optimization](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
 - [List of Books](https://github.com/valeman/Awesome_Math_Books)
 
 ## Machine Learning 
