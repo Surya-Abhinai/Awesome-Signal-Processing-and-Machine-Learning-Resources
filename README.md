@@ -112,6 +112,7 @@
 
 ## Social Media Handles to follow
 - [Disord Channels List](https://docs.google.com/spreadsheets/d/1DlBT1pF8-zMECntRWXFsL46gZyvNp1BJlJ6LXGze4dA/edit?gid=0#gid=0)
+- [Alpha Signal Newsletter](https://alphasignal.ai/)
   
 ## Hackathons
 - [Kaggle](https://www.kaggle.com/)
