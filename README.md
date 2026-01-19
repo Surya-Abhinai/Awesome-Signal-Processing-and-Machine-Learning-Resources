@@ -71,6 +71,7 @@
 
 ## Natural Language Processing
 - [LLM ToolKit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit/blob/main/README.md)
+- [Stanford CS336 - Language Modelling from scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 - [Comprehensive Resources](https://github.com/keon/awesome-nlp)
 - [RAG](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)
 - [Information Retrieval Newsletter](https://recsys.substack.com/)
