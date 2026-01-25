@@ -109,7 +109,8 @@
 - [Digital Signal Processing Notebooks](https://github.com/TUIlmenauAMS/ADSP_Tutorials)
 - [Optimization Methods](https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/)
 - [Time Series](https://github.com/youssefHosni/Practical-Time-Series-In-Python)
-- [Notes](https://aman.ai/)
+- [Aman Chadda Notes](https://aman.ai/)
+- [Vinija Notes](https://vinija.ai/)
 - [Foundational Research Papers Implementation in Pytorch](https://labml.ai/)
 
 ## Social Media Handles to follow
