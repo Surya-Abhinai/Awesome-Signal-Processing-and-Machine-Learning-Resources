@@ -62,7 +62,8 @@
 - [Hugging Face - Reinforcement Learning](https://huggingface.co/learn/deep-rl-course)
 - [Geometric Deep Learning](https://geometricdeeplearning.com)
 - [Hyper Parameter Optimization](https://arxiv.org/pdf/2410.22854)
-
+- [Embodied AI](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
+  
 ## Computer Vision
 - [Computer Vision Courses](https://yousefhosni.medium.com/learn-computer-vision-from-top-universities-bb6019be74d2)
 - [Comprehensive Resources](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -105,7 +106,7 @@
 ## MISC
 - [Applied ML Papers](https://applyingml.com/papers/)
 - [Hugging Face Daily papers](https://huggingface.co/papers)
-- [Embodied AI](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
+- [Leetcode for ML](https://www.tensortonic.com/)
 - [Digital Signal Processing Notebooks](https://github.com/TUIlmenauAMS/ADSP_Tutorials)
 - [Optimization Methods](https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/)
 - [Time Series](https://github.com/youssefHosni/Practical-Time-Series-In-Python)
