@@ -6,7 +6,7 @@
 | [Python](#python) | [Mathematics for Machine Learning](#mathematics-for-machine-learning) | [Machine Learning](#machine-learning) | [Deep Learning](#deep-learning) | 
 [Signal Processing](#signal-processing) | [Advanced Deep Learning](#advanced-deep-learning) |[Computer Vision](#computer-vision)|[NLP](#natural-language-processing) 
 |[Audio](#audio) |[High Performance Computing](#ml-infrastructure--high-performance-computing-hpc)|[AI Alignment](#ai-alignment)|[MISC](#misc)|
-|[Social Media](#social-media-handles-to-follow) | [Hackathons](#hackathons) |
+|[Social Media](#social-media-handles-to-follow) |[Interview Prep](#interview-prep) | [Hackathons](#hackathons) |
 
 
 ## Python 
@@ -106,19 +106,22 @@
 ## MISC
 - [Applied ML Papers](https://applyingml.com/papers/)
 - [Hugging Face Daily papers](https://huggingface.co/papers)
-- [Leetcode for ML](https://www.tensortonic.com/)
 - [Digital Signal Processing Notebooks](https://github.com/TUIlmenauAMS/ADSP_Tutorials)
 - [Optimization Methods](https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/)
 - [Time Series](https://github.com/youssefHosni/Practical-Time-Series-In-Python)
-- [Aman Chadda Notes](https://aman.ai/)
-- [Vinija Notes](https://vinija.ai/)
 - [Foundational Research Papers Implementation in Pytorch](https://labml.ai/)
 
 ## Social Media Handles to follow
 - [Disord Channels List](https://docs.google.com/spreadsheets/d/1DlBT1pF8-zMECntRWXFsL46gZyvNp1BJlJ6LXGze4dA/edit?gid=0#gid=0)
 - [Alpha Signal Newsletter](https://alphasignal.ai/)
 - [AI Interview Prep Substack](https://aiinterviewprep.substack.com/archive?sort=new)
-  
+
+## Interview Prep
+- [Leetcode for ML](https://www.tensortonic.com/)
+- [ML Interview questions by Nitin Suri](https://github.com/vntalking/ebooks-free/blob/master/Cracking%20The%20Machine%20Learning%20Interview.pdf)
+- [Aman Chadda Notes](https://aman.ai/)
+- [Vinija Notes](https://vinija.ai/)
+
 ## Hackathons
 - [Kaggle](https://www.kaggle.com/)
 - [Codabench](https://www.codabench.org/competitions/public)
