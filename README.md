@@ -63,6 +63,11 @@
 - [Geometric Deep Learning](https://geometricdeeplearning.com)
 - [Hyper Parameter Optimization](https://arxiv.org/pdf/2410.22854)
 - [Embodied AI](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
+  ### Physics Informed ML
+  - [Intro to PINN's](https://maziarraissi.github.io/PINNs/)
+  - [Intro to Neural Operators](https://zongyi-li.github.io/neural-operator/)
+  - [Simul AI](https://github.com/IBM/simulai)
+  - [Youtube Lectures by Steve Brunton](https://youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa&si=1TKnwfEVzFABDH03)
   
 ## Computer Vision
 - [Computer Vision Courses](https://yousefhosni.medium.com/learn-computer-vision-from-top-universities-bb6019be74d2)
