@@ -119,9 +119,11 @@
 - [Best ways to use LLM API's by Anthropic](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
 
 ## Social Media Handles to follow
-- [Disord Channels List](https://docs.google.com/spreadsheets/d/1DlBT1pF8-zMECntRWXFsL46gZyvNp1BJlJ6LXGze4dA/edit?gid=0#gid=0)
+- [Discord Channels List](https://docs.google.com/spreadsheets/d/1DlBT1pF8-zMECntRWXFsL46gZyvNp1BJlJ6LXGze4dA/edit?gid=0#gid=0)
 - [Alpha Signal Newsletter](https://alphasignal.ai/)
 - [AI Interview Prep Substack](https://aiinterviewprep.substack.com/archive?sort=new)
+- [Deep Learning Newsletter - (LLM+RL)](https://cameronrwolfe.substack.com/)
+- [Top Papers of the Week by Elvis](https://nlp.elvissaravia.com/t/ai)
 
 ## Interview Prep
 - [Leetcode for ML](https://www.tensortonic.com/)
