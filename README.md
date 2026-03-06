@@ -63,6 +63,7 @@
 - [Geometric Deep Learning](https://geometricdeeplearning.com)
 - [Hyper Parameter Optimization](https://arxiv.org/pdf/2410.22854)
 - [Embodied AI](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
+- [Explainable AI](https://github.com/altamiracorp/awesome-xai?tab=readme-ov-file#xai-)
   ### Physics Informed ML
   - [Intro to PINN's](https://maziarraissi.github.io/PINNs/)
   - [Intro to Neural Operators](https://zongyi-li.github.io/neural-operator/)
