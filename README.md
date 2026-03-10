@@ -42,8 +42,6 @@
 
 ## Signal Processing
 - [Digital Signal Processing](https://archive.nptel.ac.in/courses/108/101/108101174/)
-- [Digital Image Processing](https://archive.nptel.ac.in/courses/117/105/117105079/)
-- [Digital Speech Processing](https://archive.nptel.ac.in/courses/117/105/117105145/)
 - [Adaptive Signal Processing](https://nptel.ac.in/courses/117105075)
 - [Multirate Signal Processing](https://archive.nptel.ac.in/courses/117/101/117101123/)
 - [Random Signal Processing](https://archive.nptel.ac.in/courses/108/103/108103158/)
@@ -71,6 +69,7 @@
   - [Youtube Lectures by Steve Brunton](https://youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa&si=1TKnwfEVzFABDH03)
   
 ## Computer Vision
+- [Digital Image Processing](https://archive.nptel.ac.in/courses/117/105/117105079/)
 - [Computer Vision Courses](https://yousefhosni.medium.com/learn-computer-vision-from-top-universities-bb6019be74d2)
 - [Comprehensive Resources](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Diffusion in Depth](https://www.arxiv.org/pdf/2510.21890)
@@ -93,6 +92,8 @@
 ## Audio
 - [Conversation AI Reading Group](https://poonehmousavi.github.io/rg.html)
 - [Acoustics](https://github.com/Nitnelav/awesome-acoustic)
+- [Digital Speech Processing](https://archive.nptel.ac.in/courses/117/105/117105145/)
+- [Sound of AI YT](https://youtube.com/@valeriovelardothesoundofai?si=Em6jaf75kmJ-4gle)
 
 ## ML Infrastructure / High-Performance Computing (HPC)
 - [GPU Programming](https://github.com/gpu-mode/resource-stream)
