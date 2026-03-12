@@ -5,8 +5,8 @@
 |--------------------|---------------------------------------------|--------------------|----------|
 | [Python](#python) | [Mathematics for Machine Learning](#mathematics-for-machine-learning) | [Machine Learning](#machine-learning) | [Deep Learning](#deep-learning) | 
 [Signal Processing](#signal-processing) | [Advanced Deep Learning](#advanced-deep-learning) |[Computer Vision](#computer-vision)|[NLP](#natural-language-processing) 
-|[Audio](#audio) |[High Performance Computing](#ml-infrastructure--high-performance-computing-hpc)|[AI Alignment](#ai-alignment)|[MISC](#misc)|
-|[Social Media](#social-media-handles-to-follow) |[Interview Prep](#interview-prep) | [Hackathons](#hackathons) |
+|[Audio](#audio) |[Reinforcement Learning](reinforcement-learning)|[High Performance Computing](#ml-infrastructure--high-performance-computing-hpc)|[AI Alignment](#ai-alignment)|
+|[Social Media](#social-media-handles-to-follow) |[Interview Prep](#interview-prep) | [Hackathons](#hackathons) |[MISC](#misc)|
 
 
 ## Python 
@@ -21,6 +21,7 @@
 - [Math for Machine Learning by Weights & Biases](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg)
 - [Statistics Fundamentals by StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [Linear Algebra by 3BlueBrown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Advanced Linear Algebra](https://arxiv.org/abs/2506.18666)
 - [Essence of Calculus by 3BlueBrown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Mathematical Theory for Deep Learning](https://arxiv.org/abs/2407.18384)
 - [Bird's Eye View on Different Fields of Maths](https://web.evanchen.cc/napkin.html)
@@ -42,6 +43,8 @@
 
 ## Signal Processing
 - [Digital Signal Processing](https://archive.nptel.ac.in/courses/108/101/108101174/)
+- [DSP Book](https://www.dspguide.com/pdfbook.htm)
+- [Digital Signal Processing Notebooks](https://github.com/TUIlmenauAMS/ADSP_Tutorials)
 - [Adaptive Signal Processing](https://nptel.ac.in/courses/117105075)
 - [Multirate Signal Processing](https://archive.nptel.ac.in/courses/117/101/117101123/)
 - [Random Signal Processing](https://archive.nptel.ac.in/courses/108/103/108103158/)
@@ -52,15 +55,10 @@
 
 ## Advanced Deep Learning 
 - [Stanford CS236 Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
-- [Stanford CS224N Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+- [Deep Generative Models by Cornell](https://kuleshov-group.github.io/dgm-website/)
 - [Stanford CS224W Machine Learning With Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
-- [Stanford EE364 Convex Optimization](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
 - [Stanford CS25 Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
-- [Stanford CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-- [Hugging Face - Reinforcement Learning](https://huggingface.co/learn/deep-rl-course)
 - [Geometric Deep Learning](https://geometricdeeplearning.com)
-- [Hyper Parameter Optimization](https://arxiv.org/pdf/2410.22854)
-- [Embodied AI](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
 - [Explainable AI](https://github.com/altamiracorp/awesome-xai?tab=readme-ov-file#xai-)
   ### Physics Informed ML
   - [Intro to PINN's](https://maziarraissi.github.io/PINNs/)
@@ -79,21 +77,33 @@
 - [LLM ToolKit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit/blob/main/README.md)
 - [Stanford CS336 - Language Modelling from scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 - [Comprehensive Resources](https://github.com/keon/awesome-nlp)
-- [RAG](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)
 - [Information Retrieval Newsletter](https://recsys.substack.com/)
 - [LLM Reading Group by PaperClub](https://www.latent.space/p/paperclub)
 - [LLM Post Training](https://tokens-for-thoughts.notion.site/post-training-101#262b8b68a46d800c9bd3e845a304c3e4)
 - [Tokenizers](https://huggingface.co/blog/tokenizers)
 - [Agents and Reasoning Reading Group](https://discord.com/channels/729741769192767510/1309581020458258462/threads/1311088899929669632)
+- [Stanford CS224N Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+
   ### Intrepretability
   - [Mechanistic Intrepretability](https://github.com/apartresearch/interpretability-starter)
   - [Intrepretability of Neural Networks](https://distill.pub/2020/circuits)
+  ### RAG
+  - [RAG](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)
+  - [Active Loop RAG Course](https://learn.activeloop.ai/)
+  - [Best ways to use LLM API's by Anthropic](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
+
 
 ## Audio
 - [Conversation AI Reading Group](https://poonehmousavi.github.io/rg.html)
 - [Acoustics](https://github.com/Nitnelav/awesome-acoustic)
 - [Digital Speech Processing](https://archive.nptel.ac.in/courses/117/105/117105145/)
 - [Sound of AI YT](https://youtube.com/@valeriovelardothesoundofai?si=Em6jaf75kmJ-4gle)
+
+## Reinforcement Learning
+- [Stanford CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+- [Hugging Face - Reinforcement Learning](https://huggingface.co/learn/deep-rl-course)
+- [Embodied AI](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
+
 
 ## ML Infrastructure / High-Performance Computing (HPC)
 - [GPU Programming](https://github.com/gpu-mode/resource-stream)
@@ -109,16 +119,17 @@
 - [Cohort by Cohere Labs](https://github.com/Cohere-Labs-Community/AI-Alignment-Cohort)
 - [Overview by Neel Nanda](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher)
 
+## Optimization
+- [Stanford EE364 Convex Optimization](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
+- [Optimization Methods](https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/)
+- [Hyper Parameter Optimization](https://arxiv.org/pdf/2410.22854)
 
 ## MISC
 - [Applied ML Papers](https://applyingml.com/papers/)
 - [Hugging Face Daily papers](https://huggingface.co/papers)
-- [Digital Signal Processing Notebooks](https://github.com/TUIlmenauAMS/ADSP_Tutorials)
-- [Optimization Methods](https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/)
 - [Time Series](https://github.com/youssefHosni/Practical-Time-Series-In-Python)
 - [Foundational Research Papers Implementation in Pytorch](https://labml.ai/)
 - [AI For Drug Discovery Reading Group](https://portal.valencelabs.com/reading-groups)
-- [Best ways to use LLM API's by Anthropic](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
 
 ## Social Media Handles to follow
 - [Discord Channels List](https://docs.google.com/spreadsheets/d/1DlBT1pF8-zMECntRWXFsL46gZyvNp1BJlJ6LXGze4dA/edit?gid=0#gid=0)
