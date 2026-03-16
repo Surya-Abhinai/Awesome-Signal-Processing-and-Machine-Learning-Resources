@@ -103,6 +103,7 @@
 - [Stanford CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - [Hugging Face - Reinforcement Learning](https://huggingface.co/learn/deep-rl-course)
 - [Embodied AI](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
+- [RL Algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms)
 
 
 ## ML Infrastructure / High-Performance Computing (HPC)
