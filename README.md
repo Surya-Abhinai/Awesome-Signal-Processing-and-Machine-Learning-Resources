@@ -104,7 +104,7 @@
 - [Hugging Face - Reinforcement Learning](https://huggingface.co/learn/deep-rl-course)
 - [Embodied AI](https://huggingface.co/spaces/lerobot/robot-learning-tutorial)
 - [RL Algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms)
--[RLHF](https://rlhfbook.com/)
+- [RLHF](https://rlhfbook.com/)
 
 ## ML Infrastructure / High-Performance Computing (HPC)
 - [GPU Programming](https://github.com/gpu-mode/resource-stream)
