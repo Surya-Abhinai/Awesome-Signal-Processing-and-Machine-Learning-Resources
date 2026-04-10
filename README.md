@@ -60,6 +60,7 @@
 - [Stanford CS25 Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 - [Geometric Deep Learning](https://geometricdeeplearning.com)
 - [Explainable AI](https://github.com/altamiracorp/awesome-xai?tab=readme-ov-file#xai-)
+- [Deep Multi Task and Meta learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
   ### Physics Informed ML
   - [Intro to PINN's](https://maziarraissi.github.io/PINNs/)
   - [Intro to Neural Operators](https://zongyi-li.github.io/neural-operator/)
@@ -119,6 +120,7 @@
 - [Cohort by Eleuther AI](https://docs.google.com/document/d/1IziNp1XHLrv5yKEUqGkGlMkwrxJ2SsfCLawIdFMMfNw/edit?tab=t.0#heading=h.dlm795ug69gc)
 - [Cohort by Cohere Labs](https://github.com/Cohere-Labs-Community/AI-Alignment-Cohort)
 - [Overview by Neel Nanda](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher)
+- [Opportunities in AI Safety & Governance](https://docs.google.com/document/d/18KArOu58oYU3kWRjGqDBQ-73gUS9BmT0GLNvIYYFu60/edit?tab=t.0)
 
 ## Optimization
 - [Stanford EE364 Convex Optimization](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
