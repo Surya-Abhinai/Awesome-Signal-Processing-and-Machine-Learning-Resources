@@ -127,12 +127,17 @@
 - [Optimization Methods](https://ocw.mit.edu/courses/15-093j-optimization-methods-fall-2009/)
 - [Hyper Parameter Optimization](https://arxiv.org/pdf/2410.22854)
 
+## AI in Science 
+- [AI For Drug Discovery Reading Group](https://portal.valencelabs.com/reading-groups)
+- [Intro to Computational Biology](https://m.youtube.com/playlist?list=PLeB-Dlq-v6tY3QLdQBA7rwb4a7fK9mLpv)
+- [Resources for Computational Life Science](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc)
+
 ## MISC
 - [Applied ML Papers](https://applyingml.com/papers/)
 - [Hugging Face Daily papers](https://huggingface.co/papers)
 - [Time Series](https://github.com/youssefHosni/Practical-Time-Series-In-Python)
 - [Foundational Research Papers Implementation in Pytorch](https://labml.ai/)
-- [AI For Drug Discovery Reading Group](https://portal.valencelabs.com/reading-groups)
+
 
 ## Social Media Handles to follow
 - [Discord Channels List](https://docs.google.com/spreadsheets/d/1DlBT1pF8-zMECntRWXFsL46gZyvNp1BJlJ6LXGze4dA/edit?gid=0#gid=0)
