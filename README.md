@@ -80,6 +80,7 @@
 - [Comprehensive Resources](https://github.com/keon/awesome-nlp)
 - [Information Retrieval Newsletter](https://recsys.substack.com/)
 - [LLM Reading Group by PaperClub](https://www.latent.space/p/paperclub)
+- [Pre Training Reasoning Model](https://microsoft.ai/wp-content/uploads/2026/06/main_20260602_2.pdf)
 - [LLM Post Training](https://tokens-for-thoughts.notion.site/post-training-101#262b8b68a46d800c9bd3e845a304c3e4)
 - [Tokenizers](https://huggingface.co/blog/tokenizers)
 - [Agents and Reasoning Reading Group](https://discord.com/channels/729741769192767510/1309581020458258462/threads/1311088899929669632)
