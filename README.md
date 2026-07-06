@@ -134,6 +134,7 @@
 - [Resources for Computational Life Science](https://glittr.org/?per_page=25&sort_by=stargazers&sort_direction=desc)
 
 ## MISC
+- [Agentic AI Deep Dive](https://arxiv.org/pdf/2606.24937)
 - [Applied ML Papers](https://applyingml.com/papers/)
 - [Hugging Face Daily papers](https://huggingface.co/papers)
 - [Time Series](https://github.com/youssefHosni/Practical-Time-Series-In-Python)
