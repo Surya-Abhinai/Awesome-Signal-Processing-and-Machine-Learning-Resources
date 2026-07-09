@@ -116,6 +116,7 @@
 - [Distributed Training](https://debnsuma.github.io/my-blog/posts/distributed-training-from-scratch/)
 - [ML Performance Reading group](https://discord.com/channels/729741769192767510/1309581020458258462/threads/1309682853944229950)
 - [GPU Kernels](https://github.com/wafer-ai/gpu-perf-engineering-resources)
+- [Modern GPU Programming by CMU](https://mlc.ai/modern-gpu-programming-for-mlsys/)
 
 ## AI Alignment
 - [Cohort by Eleuther AI](https://docs.google.com/document/d/1IziNp1XHLrv5yKEUqGkGlMkwrxJ2SsfCLawIdFMMfNw/edit?tab=t.0#heading=h.dlm795ug69gc)
