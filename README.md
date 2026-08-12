@@ -148,6 +148,7 @@
 - [AI Interview Prep Substack](https://aiinterviewprep.substack.com/archive?sort=new)
 - [Deep Learning Newsletter - (LLM+RL)](https://cameronrwolfe.substack.com/)
 - [Top Papers of the Week by Elvis](https://nlp.elvissaravia.com/t/ai)
+- [Best Practices of Top AI Engineers YT](https://youtube.com/@aidotengineer?si=8yU5jM8tmNCKFtOy)
 
 ## Interview Prep
 - [Leetcode for ML](https://www.tensortonic.com/)
