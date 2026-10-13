@@ -61,6 +61,7 @@
 - [Geometric Deep Learning](https://geometricdeeplearning.com)
 - [Explainable AI](https://github.com/altamiracorp/awesome-xai?tab=readme-ov-file#xai-)
 - [Deep Multi Task and Meta learning](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
+- [Representation Learning](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)
   ### Physics Informed ML
   - [Intro to PINN's](https://maziarraissi.github.io/PINNs/)
   - [Intro to Neural Operators](https://zongyi-li.github.io/neural-operator/)
