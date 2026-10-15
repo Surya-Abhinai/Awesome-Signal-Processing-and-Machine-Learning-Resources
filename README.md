@@ -142,6 +142,7 @@
 - [Time Series](https://github.com/youssefHosni/Practical-Time-Series-In-Python)
 - [Foundational Research Papers Implementation in Pytorch](https://labml.ai/)
 - [AI Governance workshop by docker](https://agentic.dockerworkshop.com)
+- [Microsoft Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit)
 
 ## Social Media Handles to follow
 - [Discord Channels List](https://docs.google.com/spreadsheets/d/1DlBT1pF8-zMECntRWXFsL46gZyvNp1BJlJ6LXGze4dA/edit?gid=0#gid=0)
