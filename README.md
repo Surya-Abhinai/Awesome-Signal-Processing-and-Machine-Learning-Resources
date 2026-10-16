@@ -7,7 +7,7 @@
 [Signal Processing](#signal-processing) | [Advanced Deep Learning](#advanced-deep-learning) |[Computer Vision](#computer-vision)|[NLP](#natural-language-processing) 
 |[Audio](#audio) |[Reinforcement Learning](reinforcement-learning)|[High Performance Computing](#ml-infrastructure--high-performance-computing-hpc)|[AI Alignment](#ai-alignment)|
 |[Social Media](#social-media-handles-to-follow) |[Interview Prep](#interview-prep) | [Hackathons](#hackathons) |[MISC](#misc)|
-
+|[Intrepretability](#intrepretability)|
 
 ## Python 
 - [Angela Yu Course on Udemy](https://www.udemy.com/course/100-days-of-code/)
@@ -88,9 +88,6 @@
 - [Agents and Reasoning Reading Group](https://discord.com/channels/729741769192767510/1309581020458258462/threads/1311088899929669632)
 - [Stanford CS224N Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
 
-  ### Intrepretability
-  - [Mechanistic Intrepretability](https://github.com/apartresearch/interpretability-starter)
-  - [Intrepretability of Neural Networks](https://distill.pub/2020/circuits)
   ### RAG
   - [RAG](https://github.com/KalyanKS-NLP/rag-zero-to-hero-guide)
   - [Active Loop RAG Course](https://learn.activeloop.ai/)
@@ -102,6 +99,11 @@
 - [Acoustics](https://github.com/Nitnelav/awesome-acoustic)
 - [Digital Speech Processing](https://archive.nptel.ac.in/courses/117/105/117105145/)
 - [Sound of AI YT](https://youtube.com/@valeriovelardothesoundofai?si=Em6jaf75kmJ-4gle)
+
+## Intrepretability
+  - [Mechanistic Intrepretability](https://github.com/apartresearch/interpretability-starter)
+  - [Intrepretability of Neural Networks](https://distill.pub/2020/circuits)
+  - [Goodfire blogs](https://www.goodfire.com/research)
 
 ## Reinforcement Learning
 - [Stanford CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
