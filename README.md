@@ -84,6 +84,7 @@
 - [Pre Training Reasoning Model](https://microsoft.ai/wp-content/uploads/2026/06/main_20260602_2.pdf)
 - [LLM Post Training](https://tokens-for-thoughts.notion.site/post-training-101#262b8b68a46d800c9bd3e845a304c3e4)
 - [Tokenizers](https://huggingface.co/blog/tokenizers)
+- [Custom Embedding Model](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune)
 - [Agents and Reasoning Reading Group](https://discord.com/channels/729741769192767510/1309581020458258462/threads/1311088899929669632)
 - [Stanford CS224N Natural Language Understanding](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
 
@@ -113,11 +114,15 @@
 - [GPU Programming](https://github.com/gpu-mode/resource-stream)
 - [Hardware for Deep Learning](https://www.linkedin.com/posts/kailash-prasad_machine-learning-hardware-and-systems-cornell-activity-7294928173270515731-CGIn)
 - [CUDA](https://www.linkedin.com/posts/paoloperrone_youre-learning-cuda-all-wrong-the-nvidia-activity-7387693771620220928-tRrS)
-- [ML Efficiency (Quantization)](https://sites.google.com/cohere.com/coherelabs-community/community-programs/ml-efficiency)
+- PMPP Book
+- Baseten Inference Engineering book 
 - [Distributed Training](https://debnsuma.github.io/my-blog/posts/distributed-training-from-scratch/)
 - [ML Performance Reading group](https://discord.com/channels/729741769192767510/1309581020458258462/threads/1309682853944229950)
 - [GPU Kernels](https://github.com/wafer-ai/gpu-perf-engineering-resources)
 - [Modern GPU Programming by CMU](https://mlc.ai/modern-gpu-programming-for-mlsys/)
+- [Pytorch Internals](https://blog.ezyang.com/2019/05/pytorch-internals/)
+- [Vllm Internals](https://vllm.ai/blog/2025-09-05-anatomy-of-vllm)
+- [Ray Architecture](https://docs.google.com/document/d/1tBw9A4j62ruI5omIJbMxly-la5w4q_TjyJgJL_jN2fI/edit?usp=drivesdk)
 
 ## AI Alignment
 - [Cohort by Eleuther AI](https://docs.google.com/document/d/1IziNp1XHLrv5yKEUqGkGlMkwrxJ2SsfCLawIdFMMfNw/edit?tab=t.0#heading=h.dlm795ug69gc)
